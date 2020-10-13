@@ -19,10 +19,10 @@ In this project, the returns on a combined asset class, comprising of cryptocurr
 - Operating system: Windows 10, 64-bit
 
 ## Asset classes
-# Cryptocurrencies
+### Cryptocurrencies
 - Bitcoin= 1.2 Units
 - Ethereum= 5.3 Units
-# Shares
+### Shares
 - AGG Bond= 200 units
 - SPY Stock= 50 units
 
