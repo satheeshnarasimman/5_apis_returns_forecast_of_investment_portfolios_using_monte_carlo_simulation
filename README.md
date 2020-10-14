@@ -73,7 +73,7 @@ In this project, the returns on a combined asset class, comprising of cryptocurr
 - Created the Alpaca API Object.
 - Retrieved the current closing prices of SPY and AGG from Alpaca.
 - Computed the value of AGG and SPY shares corresponding to the units.
-- Set the monthly household income to $12000
+- Set the monthly household income to 12000
 - Created a dataframe comprising of Crypto and Shares assets and plotted a pie chart comparing them.
 - Fixed the emergency fund amount as thrice the monthly income and checked if the customer's net savings exceeds the emergency fund.
 - Retrieved 5 years worth of AGG and SPY shares data from Alpaca API.
@@ -81,13 +81,16 @@ In this project, the returns on a combined asset class, comprising of cryptocurr
 - Plotted the 30-year, 10-year and 5-year simulation.
 - Plotted the normal distribution of cumulative returns over 30,10,5 years.
 - Fetched the summary statistics of 30,10,5 year simulations.
-- Calculated the most likely lowest and highest return on $20000, $30000, $40000 and $60000.
+- Calculated the most likely lowest and highest return on 20000, 30000, 40000 and 60000.
+
+## Conclusion
+- From the Monte Carlo Simulations, it could be concluded that a 30000 investment with a 30 year waiting period would be the ideal option. The money would at least provide a return of 79845 and a maximum return potential of close to a Million Dollars.
 
 ## Contributors
 - Satheesh Narasimman
 
 ## People who helped
-- Khaled Khaman, Bootcamp personal tutor
+- Khaled Karman, Bootcamp personal tutor
 
 ## References
 - https://www.investopedia.com/terms/m/montecarlosimulation.asp
